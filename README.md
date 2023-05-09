@@ -13,7 +13,7 @@ JarvisGPT is a containerized solution to the wonderful script made by Amogh Agas
 * [Ngrok](https://github.com/shkoliar/docker-ngrok) - third party service to capture Webhooks.
 
 ## Installation
-1. Follow the instructions in the link *until step 5*
+1. Follow the instructions in the * [betterprogramming.pub](https://betterprogramming.pub/how-to-integrate-dialogflow-with-gpt-3-creating-a-personal-virtual-mental-health-assistant-from-fee7d363993a) *until step 5*
 2. run the following  docker compose:
 ```
 version: "3.6"
